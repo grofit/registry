@@ -44,6 +44,36 @@
       "name": "validation",
       "endpoint": "github",
       "location": "aurelia/validation"
+    },
+    {
+      "name": "typing",
+      "endpoint": "github",
+      "location": "grofit/aurelia-typing"
+    },
+    {
+      "name": "jquery-textcomplete",
+      "endpoint": "github",
+      "location": "grofit/aurelia-textcomplete"
+    },
+    {
+      "name": "files",
+      "endpoint": "github",
+      "location": "grofit/aurelia-files"
+    },
+    {
+      "name": "gravatar",
+      "endpoint": "github",
+      "location": "grofit/aurelia-gravatar"
+    },
+    {
+      "name": "chart",
+      "endpoint": "github",
+      "location": "grofit/aurelia-chart"
+    },
+    {
+      "name": "generate",
+      "endpoint": "github",
+      "location": "grofit/aurelia-generate"
     }
   ]
 }
